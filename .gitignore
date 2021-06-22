@@ -1,0 +1,7 @@
+venv/
+.idea/
+.DS_Store
+dist/
+build/
+.eggs/
+__pycache__/
